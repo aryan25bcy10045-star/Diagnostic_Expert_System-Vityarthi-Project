@@ -1,6 +1,8 @@
-# Project Title:-
-AI-Driven Expert Medical Diagnostic System (VITYARTHI PROJECT)
+---
+# Project Title:- 
 
+AI-Driven Expert Medical Diagnostic System (VITYARTHI PROJECT)
+---
 # Overview:-
 
 This project is a hybrid intelligent diagnostic system that integrates:
@@ -14,6 +16,8 @@ This project is a hybrid intelligent diagnostic system that integrates:
 The system collects user symptoms, evaluates them using Prolog rules (from rules.pl), predicts the most likely medical diagnosis, suggests a treatment plan, and also uses a machine-learning model to estimate a risk level (Low / Medium / High).
 
 The project showcases a powerful combination of symbolic AI and statistical learning—making it perfect for academic demonstrations, research, and intelligent system design.
+
+---
 
 # Features:-
 
@@ -95,6 +99,8 @@ symptoms_data.csv	Training dataset
 
 requirements.txt	Python dependencies
 
+---
+
 # Technologies & Tools Used:-
 
 ----> Programming Languages
@@ -122,6 +128,8 @@ requirements.txt	Python dependencies
 @ SWI-Prolog
 
 @ Python 3.10+
+
+---
 
 # Installation & Setup Guide:-
 
@@ -192,6 +200,8 @@ python app.py
 ----> Initial run detected. Training the Classification Model...
 
 This is normal — it builds the ML model.
+
+---
 
 # Testing Instructions:-
 
@@ -275,6 +285,7 @@ get_diagnosis(Diagnosis, TreatmentText) :-
 
 Python calls this directly.
 
+---
 
 # Project Structure:-
 
@@ -294,6 +305,8 @@ Diagnostic_Expert_System/
 
 │── README.md
 
+---
+
 #SCREENSHOTS
 
 <img width="662" height="581" alt="MAIN INTERFACE" src="https://github.com/user-attachments/assets/0bba56ae-bd2b-44d6-ab36-8a6752b80dd5" />
@@ -309,5 +322,7 @@ Diagnostic_Expert_System/
 <img width="658" height="581" alt="OUTPUT 5" src="https://github.com/user-attachments/assets/d42e40dd-68b9-4cf8-b9f9-2bb53085bca3" />
 
 <img width="626" height="576" alt="OUTPUT 6" src="https://github.com/user-attachments/assets/ff7fb6ab-16fa-4c6d-9c55-315243ccabfd" />
+
+---
 
 <img width="648" height="583" alt="OUTPUT 7" src="https://github.com/user-attachments/assets/8cc24a8d-bb33-40a7-a5ea-98aeab01706e" />
